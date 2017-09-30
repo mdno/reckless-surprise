@@ -1,0 +1,24 @@
+name: reckless surprise
+layout_spectrum: 0.1796479932963848
+typography_spectrum: 0.04630178306251764
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.7512667165137827
+  lightness: 0.3473587133921683
+  saturation: 0.9465515296906233
+  rhythmicContrast: 0.36433246824890375
+title: ''
+description: ''
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
